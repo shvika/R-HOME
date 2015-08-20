@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">R Home</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="app_load_welcome">\nWelcome\nto\nRoey\nand\nSharon</string>
+    <string name="image_dummy_context">our logo</string>
+    <string name="title_activity_navigation_main">NavigationMainActivity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="button_do_something_text">Do Something</string>
+
+    <string-array name="navigation_drawer_main_options">
+        <item>Show Website Todo List</item>
+        <item>New Website Todo</item>
+        <item>New Shopping Request</item>
+    </string-array>
+
+    <string name="url_shvika_nitzani_website_todos">"http://10.0.0.100/ShvikaNitzani1/WebsiteTodo"</string>
+    <string name="url_shvika_nitzani_web_api_get_todos">http://10.0.0.100/ShvikaNitzani1/api/WebAPIwebsiteTodos</string>
+    <string name="url_shvika_nitzani_login">"http://10.0.0.100/ShvikaNitzani1/Account/Login"</string>
+
+    
+    <string name="html_tag_table">table</string>
+    <string name="html_tag_table_row">tr</string>
+    <string name="html_tag_table_data">td</string>
+    <string name="html_tag_selector_greater_than_one">:gt(0)</string>
+    <string name="title_activity_website_todos">Todo List</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="key_todos">TODOS</string>
+    <string name="dummy">dummy for development use only</string>
+
+    <string name="json_property_content_type">content-type</string>
+    <string name="json_value_app_json">application/json</string>
+    <string name="json_dummy_website_todo_item_details">"{\"Subject\":\"Android\",\"Details\":\"zzzzzzzndroid App\"}"</string>
+    
+    <string name="http_method_post">POST</string>
+    <string name="button_description_1">button_description_1</string>
+    <string name="title_activity_input_website_todo">Input Website Todo</string>
+
+    <string name="prompt_website_todo_subject">Subject:</string>
+    <string name="prompt_website_todo_details">Details:</string>
+    <string name="button_submit_todo_title">Submit</string>
+    <string name="image_description">description</string>
+
+    <string name="title_activity_login">Log in</string>
+    <string name="login_username">Username:</string>
+    <string name="login_password">Password:</string>
+    <string name="login_button_text">Log In</string>
+    <string name="description">description</string>
+
+</resources>

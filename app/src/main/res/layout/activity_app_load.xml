@@ -1,0 +1,27 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:background="#0099cc"
+    tools:context=".AppLoadActivity">
+
+    <!-- The primary full-screen view. This can be replaced with whatever view
+         is needed to present your content, e.g. VideoView, SurfaceView,
+         TextureView, etc. -->
+    <TextView android:id="@+id/fullscreen_content" android:layout_width="match_parent"
+        android:layout_height="match_parent" android:keepScreenOn="true" android:textColor="#ffffffff"
+        android:textStyle="bold" android:textSize="50sp" android:gravity="center"
+        android:text="@string/app_load_welcome"
+        android:background="@color/app_background_blue" />
+
+    <ImageView
+        android:layout_width="113dp"
+        android:layout_height="113dp"
+        android:id="@+id/imageView"
+        android:layout_gravity="center_horizontal|top"
+        android:contentDescription="@string/image_dummy_context"
+        android:src="@mipmap/ic_launcher"
+        android:layout_marginTop="50dp" />
+
+    <!-- This FrameLayout insets its children based on system windows using
+         android:fitsSystemWindows. -->
+
+</FrameLayout>

@@ -1,0 +1,8 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="app_background_blue">#ff0000ff</color>
+    <color name="dark_magenta">#ff8b068a</color>
+    <color name="azure">#ff2ab5ff</color>
+
+</resources>
